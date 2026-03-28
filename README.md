@@ -8,7 +8,7 @@ A **live data dashboard** simulating stock and crypto price feeds with 4 auto-up
 
 ## 🚀 Live Demo
 
-> 🔗 **[Open Dashboard on Render →](https://realtime-data-stream.onrender.com)**
+> 🔗 **[Open Dashboard →](https://realtime-data-stream-ysgp.onrender.com)**
 >
 > ⚠️ Free tier — may take 30–60s to wake up on first request.
 
